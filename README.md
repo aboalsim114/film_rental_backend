@@ -1,3 +1,5 @@
+[![image-fx.png](https://i.postimg.cc/wxXGqjhv/image-fx.png)](https://postimg.cc/c6JmTZky)
+
 # Film Rental API
 
 Bienvenue dans l'API de gestion des locations de films. Cette API vous permet de gérer les films, les clients et les locations de manière simple et efficace.
